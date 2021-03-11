@@ -14,7 +14,7 @@ short_description = long_description[long_description.find('Description'):
 
 setuptools.setup(
     name="my_functions", # Replace with your own username
-    version="1.0.0",
+    version="1.0.1",
     author="Dan Eschman",
     author_email="dan.eschman@gmail.com",
     description=short_description,

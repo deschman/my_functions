@@ -1,4 +1,4 @@
-# [my_functions] (https://github.com/deschman/my_functions)
+# [my_functions](https://github.com/deschman/my_functions)
 
 ## Description
 Collection of miscellanious user-defined functions.
