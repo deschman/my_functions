@@ -1,7 +1,7 @@
 # [my_functions](https://github.com/deschman/my_functions)
 
 ## Description
-Collection of miscellanious user-defined functions.
+Collection of miscellaneous user-defined functions.
 
 ## Examples
 ### get_between

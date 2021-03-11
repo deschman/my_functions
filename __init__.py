@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Collection of miscellanious user-defined functions.
+Collection of miscellaneous user-defined functions.
 
 @author: deschman
 """
